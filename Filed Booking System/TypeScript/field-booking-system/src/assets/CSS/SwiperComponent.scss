@@ -1,0 +1,9 @@
+$slider-heading-color: #054392;
+$slider-heading-textMargin:125px;
+$JustifyContentCenter:center;
+
+.SliderHeadingTag {
+    color: $slider-heading-color;
+    margin-top: $slider-heading-textMargin;
+    justify-content:$JustifyContentCenter ;
+}
